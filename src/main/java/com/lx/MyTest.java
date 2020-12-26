@@ -40,6 +40,6 @@ public class MyTest {
 
         System.out.println(userController.getUserService());
         System.out.println(userService);
-        //俄方的是asd asd s
+        //俄方的是
     }
 }
